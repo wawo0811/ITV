@@ -17,11 +17,10 @@ CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1786978800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-fcbf64e45b4d07a255d3f8fd32c7edb3&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN（英语新闻）,http://112.27.235.94:8000/hls/17/index.m3u8
+CGTN（英语新闻）,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 中央新影-老故事,http://112.27.235.94:8000/hls/50/index.m3u8
 📡卫视频道,#genre#
@@ -84,7 +83,7 @@ TVB明珠台,http://r.jdshipin.com/jUx8K
 ☘️浙江频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -98,8 +97,8 @@ TVB明珠台,http://r.jdshipin.com/jUx8K
 温州经济科教,http://120.237.39.10:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&down=1
 嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
-浙江 Ⅰ 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 浙江 Ⅰ 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+浙江 Ⅰ 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 ☘️安徽频道,#genre#
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
@@ -145,7 +144,7 @@ TVB明珠台,http://r.jdshipin.com/jUx8K
 ☘️新疆频道,#genre#
 和静新闻综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
-伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
 奎屯汉语频道,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 ☘️广东频道,#genre#
 广东珠江,http://r.jdshipin.com/sE5vO
@@ -161,8 +160,6 @@ TVB明珠台,http://r.jdshipin.com/jUx8K
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京卡酷少儿,http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-☘️天津频道,#genre#
-津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北（4K）,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -196,12 +193,12 @@ TVB明珠台,http://r.jdshipin.com/jUx8K
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
-四平新闻综合 [Geo-blocked],https://stream2.jlntv.cn/sptv/sd/live.m3u8
 吉林市新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jilin1/sd/live.m3u8
-通化新闻 [Geo-blocked],https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-白山新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baishan1/sd/live.m3u8
-长春综合 [Geo-blocked],https://stream2.jlntv.cn/jlcc/sd/live.m3u8
+四平新闻综合 [Geo-blocked],https://stream2.jlntv.cn/sptv/sd/live.m3u8
 松原新闻综合 [Geo-blocked],https://stream2.jlntv.cn/sytv/sd/live.m3u8
+白山新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baishan1/sd/live.m3u8
+通化新闻 [Geo-blocked],https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+长春综合 [Geo-blocked],https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 ☘️黑龙江频道,#genre#
@@ -225,6 +222,7 @@ TVB明珠台,http://r.jdshipin.com/jUx8K
 河南公共,http://1.94.31.214/php/hntv.php?id=hngg
 河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
 ☘️湖北频道,#genre#
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
