@@ -31,6 +31,7 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 厦门卫视,http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
 山东卫视,http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
 河南卫视,http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 深圳卫视,http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
 海南卫视,http://113.9.214.47:9003/hls/48/index.m3u8
@@ -54,8 +55,6 @@ TVB翡翠台,http://r.jdshipin.com/qClQf
 南京娱乐,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 六合新闻综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
-新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -76,10 +75,12 @@ TVB翡翠台,http://r.jdshipin.com/qClQf
 嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 浙江 Ⅰ 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 ☘️安徽频道,#genre#
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
+祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 ☘️福建频道,#genre#
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
@@ -130,6 +131,8 @@ TVB翡翠台,http://r.jdshipin.com/qClQf
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京卡酷少儿,http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+☘️天津频道,#genre#
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北（4K）,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -150,7 +153,7 @@ TVB翡翠台,http://r.jdshipin.com/qClQf
 梅河口综合,http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
-敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
+敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
