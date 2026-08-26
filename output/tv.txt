@@ -20,7 +20,7 @@ CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1787713200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ab509ff047a8960778f78231a3a2c432&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN（英语新闻）,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 📡卫视频道,#genre#
@@ -70,7 +70,7 @@ TVB明珠台,http://r.jdshipin.com/ZQ4kN
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 ☘️浙江频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -104,7 +104,6 @@ TVB明珠台,http://r.jdshipin.com/ZQ4kN
 ☘️陕西频道,#genre#
 陕西新闻资讯,http://112.46.105.20:8009/hls/18/index.m3u8
 陕西都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
-陕西公共,http://ls.qingting.fm/live/1222.m3u8
 陕西秦腔,http://112.46.105.20:8009/hls/22/index.m3u8
 陕西银龄,http://112.46.105.20:8009/hls/20/index.m3u8
 西安新闻,http://112.46.105.20:8009/hls/28/index.m3u8
@@ -172,7 +171,7 @@ TVB明珠台,http://r.jdshipin.com/ZQ4kN
 东风新闻综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 ☘️湖北频道,#genre#
-江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 🌊港·澳·台,#genre#
