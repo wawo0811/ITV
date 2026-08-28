@@ -17,14 +17,12 @@ CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1787907600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-951ef3f9b73cd0e667e97df01ca16d5f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-CHC动作电影,http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN（英语新闻）,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 📡卫视频道,#genre#
-河北卫视,http://113.57.140.161:10081/newlive/live/hls/33/live.m3u8
 内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
@@ -48,6 +46,7 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 澳视澳门,http://r.jdshipin.com/n2YZI
+河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
 TVB翡翠台,http://r.jdshipin.com/62WM7
 ☘️上海频道,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
@@ -61,11 +60,11 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 ☘️浙江频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
@@ -124,7 +123,6 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 北京卡酷少儿,http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
-河北（4K）,https://event.pull.hebtv.com:443/live/live101.m3u8
 ☘️山西频道,#genre#
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
 ☘️辽宁频道,#genre#
@@ -147,8 +145,8 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 ☘️黑龙江频道,#genre#
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
@@ -174,4 +172,4 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 HOY TV,http://r.jdshipin.com/sFw4S
-凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
