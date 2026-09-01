@@ -5,6 +5,7 @@ CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
+CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
@@ -44,7 +45,7 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 澳视澳门,http://r.jdshipin.com/n2YZI
-TVB翡翠台,http://r.jdshipin.com/62WM7
+TVB翡翠台,http://r.jdshipin.com/GeWKr
 ☘️上海频道,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 ☘️江苏频道,#genre#
@@ -72,7 +73,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 ☘️安徽频道,#genre#
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-固镇新闻,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 ☘️福建频道,#genre#
 福建海峡卫视,http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
@@ -80,7 +81,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 宁化电视一套,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 ☘️重庆频道,#genre#
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+铜梁综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 ☘️四川频道,#genre#
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
@@ -133,14 +134,16 @@ TVB翡翠台,http://r.jdshipin.com/62WM7
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
 柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
 梅河口综合,http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
+白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
 龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
+珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 ☘️黑龙江频道,#genre#
-黑龙江少儿,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨都市资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
