@@ -22,7 +22,7 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 河北卫视,http://113.57.140.161:10081/newlive/live/hls/33/live.m3u8
 内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,https://live.zzyxxw.com:2443/live/xwzh.m3u8
+吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 山东卫视,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 湖北卫视,http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
@@ -93,7 +93,7 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 ☘️青海频道,#genre#
 西宁新闻综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 ☘️新疆频道,#genre#
-伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 奎屯汉语频道,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 ☘️广东频道,#genre#
@@ -109,6 +109,8 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北（4K）,https://event.pull.hebtv.com:443/live/live101.m3u8
+☘️山西频道,#genre#
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 ☘️吉林频道,#genre#
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
@@ -124,7 +126,7 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 ☘️黑龙江频道,#genre#
 黑龙江新闻,https://live.zzyxxw.com:2443/live/xwzh.m3u8
-黑龙江少儿,https://live.zzyxxw.com:2443/live/xwzh.m3u8
+黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
