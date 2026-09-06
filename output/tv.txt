@@ -22,7 +22,7 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 河北卫视,http://113.57.140.161:10081/newlive/live/hls/33/live.m3u8
 内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 山东卫视,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 湖北卫视,http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
@@ -48,7 +48,7 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 六合新闻综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 ☘️浙江频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -59,10 +59,7 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
-龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 浙江 Ⅰ 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 ☘️安徽频道,#genre#
@@ -100,7 +97,6 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 奎屯汉语频道,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 ☘️广东频道,#genre#
-广东珠江,http://r.jdshipin.com/sE5vO
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
@@ -113,8 +109,6 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北（4K）,https://event.pull.hebtv.com:443/live/live101.m3u8
-☘️山西频道,#genre#
-太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 ☘️吉林频道,#genre#
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
