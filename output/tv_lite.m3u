@@ -1,5 +1,7 @@
 #EXTM3U
 # 精简版
+#EXTINF:-1 group-title="📺央视频道",CCTV-1
+http://45.192.97.170:8880/play/1.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-2
 http://45.192.97.170:8880/play/2.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-3
@@ -48,8 +50,6 @@ http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="📡卫视频道",湖北卫视
 http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 group-title="📡卫视频道",三沙卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 #EXTINF:-1 group-title="📡卫视频道",海南卫视
 http://112.234.22.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="📡卫视频道",重庆卫视
