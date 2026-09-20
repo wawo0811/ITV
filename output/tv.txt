@@ -30,7 +30,7 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 ☘️浙江频道,#genre#
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
@@ -65,12 +65,15 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 ☘️新疆频道,#genre#
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+奎屯汉语频道,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 ☘️广东频道,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
 ☘️广西频道,#genre#
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
+☘️海南频道,#genre#
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 ☘️辽宁频道,#genre#
@@ -87,6 +90,8 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
 柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
 梅河口综合,http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
+靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
+龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 ☘️黑龙江频道,#genre#
 黑龙江新闻,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
