@@ -42,14 +42,8 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="📡卫视频道",辽宁卫视
 http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="📡卫视频道",吉林卫视
-http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 group-title="📡卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="📡卫视频道",湖南卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-#EXTINF:-1 group-title="📡卫视频道",三沙卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="📡卫视频道",海南卫视
 http://112.234.22.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="📡卫视频道",贵州卫视
@@ -58,20 +52,12 @@ http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 #EXTINF:-1 group-title="📡卫视频道",海峡卫视
 http://8.138.7.223/tv/hxws.m3u8
-#EXTINF:-1 group-title="📡卫视频道",河北
-https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="📡卫视频道",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="☘️上海频道",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",浙江经济生活
-http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",浙江民生
-http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-#EXTINF:-1 group-title="☘️浙江频道",中国蓝新闻
-http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江 Ⅰ 绍兴综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",绍兴电视台公共
@@ -80,8 +66,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
 #EXTINF:-1 group-title="☘️安徽频道",祁门综合
 http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-#EXTINF:-1 group-title="☘️福建频道",三明新闻综合
-http://ls.qingting.fm/live/4885.m3u8
 #EXTINF:-1 group-title="☘️福建频道",云霄综合
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
 #EXTINF:-1 group-title="☘️重庆频道",江津新闻综合
@@ -90,56 +74,22 @@ http://222.179.155.21:1935/ch1.m3u8
 https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="☘️四川频道",青川综合
 http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-#EXTINF:-1 group-title="☘️四川频道",井研综合
-http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 group-title="☘️陕西频道",陕西公共
 http://ls.qingting.fm/live/1222.m3u8
-#EXTINF:-1 group-title="☘️陕西频道",陕西秦腔
-http://112.46.105.20:8009/hls/22/index.m3u8
-#EXTINF:-1 group-title="☘️陕西频道",陕西银龄
-http://112.46.105.20:8009/hls/20/index.m3u8
-#EXTINF:-1 group-title="☘️陕西频道",西安新闻
-http://112.46.105.20:8009/hls/28/index.m3u8
-#EXTINF:-1 group-title="☘️陕西频道",西安都市
-http://112.46.105.20:8009/hls/29/index.m3u8
-#EXTINF:-1 group-title="☘️陕西频道",新闻咨询
-http://112.46.105.20:8009/hls/18/index.m3u8
-#EXTINF:-1 group-title="☘️陕西频道",都市青春
-http://112.46.105.20:8009/hls/19/index.m3u8
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃都市
-https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 #EXTINF:-1 group-title="☘️新疆频道",伊犁维吾尔
 http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 #EXTINF:-1 group-title="☘️新疆频道",伊犁哈萨克
 http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 #EXTINF:-1 group-title="☘️新疆频道",奎屯汉语
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="☘️广东频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
-#EXTINF:-1 group-title="☘️广东频道",广州竞赛
-http://8.138.7.223/tv/gzjs.m3u8
-#EXTINF:-1 group-title="☘️广东频道",南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 group-title="☘️广西频道",灌阳新闻综合
-https://ls.qingting.fm/live/5043/64k.m3u8
-#EXTINF:-1 group-title="☘️河北频道",河北农民
-https://ls.qingting.fm/live/1650/64k.m3u8
 #EXTINF:-1 group-title="☘️黑龙江频道",黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨资讯
-http://stream.hrbtv.net/zxpd/sd/live.m3u8
-#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨都市资讯
-http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨生活
 http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨娱乐
 http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
-#EXTINF:-1 group-title="☘️黑龙江频道",甘南县综合
-https://stream.hrbtv.net/zxpd/sd/live.m3u8
-#EXTINF:-1 group-title="☘️黑龙江频道",七台河新闻综合
-http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨都市咨询
 http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="☘️湖北频道",江夏新闻综合
