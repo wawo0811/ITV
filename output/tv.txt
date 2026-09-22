@@ -42,7 +42,6 @@ TVB翡翠台,http://r.jdshipin.com/qClQf
 ☘️重庆频道,#genre#
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 ☘️四川频道,#genre#
-泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 ☘️陕西频道,#genre#
 陕西公共,http://ls.qingting.fm/live/1222.m3u8
@@ -50,12 +49,16 @@ TVB翡翠台,http://r.jdshipin.com/qClQf
 陕西银龄,http://112.46.105.20:8009/hls/20/index.m3u8
 ☘️甘肃频道,#genre#
 甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+☘️青海频道,#genre#
+海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 ☘️新疆频道,#genre#
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 奎屯汉语频道,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 ☘️广西频道,#genre#
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
+☘️海南频道,#genre#
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 ☘️黑龙江频道,#genre#
