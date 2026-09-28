@@ -15,7 +15,7 @@ CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CGTN（英语新闻）,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-CGTN-Español（西班牙语）,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN-Español（西班牙语）,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 📡卫视频道,#genre#
 深圳卫视,http://gmxw.7766.org:808/hls/45/index.m3u8
 海南卫视,http://112.234.22.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -36,7 +36,6 @@ TVB翡翠台,http://r.jdshipin.com/qrfbg
 ☘️安徽频道,#genre#
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
-祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 ☘️福建频道,#genre#
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
@@ -56,6 +55,7 @@ TVB翡翠台,http://r.jdshipin.com/qrfbg
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 奎屯汉语频道,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 ☘️广西频道,#genre#
+灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
@@ -67,11 +67,13 @@ TVB翡翠台,http://r.jdshipin.com/qrfbg
 磐石综合,http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
 双辽综合,http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
 东丰综合,http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
 柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
 梅河口综合,http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
 靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
 龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 ☘️黑龙江频道,#genre#
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
