@@ -55,8 +55,6 @@ TVB翡翠台,http://r.jdshipin.com/qrfbg
 ☘️广西频道,#genre#
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
-☘️河北频道,#genre#
-河北农民,http://1.94.31.214/php/hebei.php?id=nmpd
 ☘️吉林频道,#genre#
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
