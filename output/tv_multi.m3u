@@ -6,7 +6,7 @@ http://45.192.97.170:8880/play/2.m3u8 # http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-3
 http://69.30.245.50/live/cctv3.m3u8 # http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5+
-http://45.192.97.170:8880/play/6.m3u8 # http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 # https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8 # https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+http://45.192.97.170:8880/play/6.m3u8 # https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8 # http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 # https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-7
 http://69.30.245.50/live/cctv7.m3u8 # http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-8
@@ -16,7 +16,7 @@ http://69.30.245.50/live/cctv9.m3u8 # https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-10
 http://69.30.245.50/live/cctv10.m3u8 # http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-11
-http://45.192.97.170:8880/play/12.m3u8 # http://74.91.26.218:82/live/cctv11hd.m3u8 # https://xykt-fix.github.io/play/a02b/index.m3u8
+http://45.192.97.170:8880/play/12.m3u8 # https://xykt-fix.github.io/play/a02b/index.m3u8 # http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-13
 http://45.192.97.170:8880/play/14.m3u8 # http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
@@ -25,14 +25,12 @@ http://45.192.97.170:8880/play/15.m3u8 # http://74.91.26.218:82/live/cctv14hd.m3
 http://45.192.97.170:8880/play/16.m3u8 # https://xykt-fix.github.io/play/a02e/index.m3u8 # http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-17
 http://45.192.97.170:8880/play/17.m3u8 # http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791680400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-39b6f5c519f3bff594a4b72406a64d0e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 group-title="📺央视频道",CHC家庭影院
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 group-title="📺央视频道",CGTN（英语新闻）
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8 # https://english-livebkali.cgtn.com/live/encgtn.m3u8 # https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
+https://english-livebkali.cgtn.com/live/encgtn.m3u8 # https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8 # https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="📺央视频道",CGTN-Documentary（英语纪录）
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8 # https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8 # https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8 # https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8 # https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 group-title="📡卫视频道",海南卫视
 http://112.234.22.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="📡卫视频道",贵州卫视
@@ -73,14 +71,10 @@ http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
 #EXTINF:-1 group-title="☘️重庆频道",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8 # http://222.179.155.21:1935/ch1.m3u8
-#EXTINF:-1 group-title="☘️重庆频道",铜梁综合
-http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 #EXTINF:-1 group-title="☘️四川频道",青川综合
 http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 #EXTINF:-1 group-title="☘️四川频道",叙州新闻综合
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-#EXTINF:-1 group-title="☘️陕西频道",陕西公共
-http://ls.qingting.fm/live/1222.m3u8
 #EXTINF:-1 group-title="☘️新疆频道",奎屯汉语频道
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="☘️广西频道",灌阳新闻综合
