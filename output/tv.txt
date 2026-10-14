@@ -20,7 +20,6 @@ CGTN-Documentary（英语纪录）,https://amg00405-rakutentv-cgtndocumentary-ra
 📡卫视频道,#genre#
 海南卫视,http://112.234.22.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-rtxBDT.m3u8
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 TVB翡翠台,http://r.jdshipin.com/qrfbg
 ☘️上海频道,#genre#
@@ -49,6 +48,15 @@ TVB翡翠台,http://r.jdshipin.com/qrfbg
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 ☘️辽宁频道,#genre#
 辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
+☘️吉林频道,#genre#
+德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
+桦甸综合,http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
+磐石综合,http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
+东丰综合,http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
+柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
+靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
+龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
 ☘️黑龙江频道,#genre#
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
